@@ -52,7 +52,7 @@ gc_model = GraphicalClustering(input_text,2)
 gc_model.generate_graph_clusters(5)
 ```
 We can view the generated clusters like below
-![Screenshot](output.jpg)
+![alt text](https://github.com/nmani1191/GraphicalClustering/blob/main/output.jpg?raw=true)
 
 We can save the generated cluster model for predicting future tickets as well like below
 ```
@@ -67,4 +67,4 @@ result = loaded_gc_model.predict(input_text[0:5]) #For testing here I passed sam
 ```
 
 Pedicted outputs will be like below
-![Screenshot](prediction_output.jpg)
+![alt text](https://github.com/nmani1191/GraphicalClustering/blob/main/prediction_output.jpg?raw=true)
