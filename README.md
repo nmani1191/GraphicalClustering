@@ -48,6 +48,7 @@ For example, if
 * then |A| = 9, |B| = 10, |A ∩ B| = 9 and D = (2∗9)/ (9+10) = 0.947.
 
 Below are the logical steps to perform Graphical clustering after identifying the similarity scores
+construction
 
 1. Compute Dice similarity between every pair of clean description.
 2. Construct a similarity graph of clean descriptions in which nodes are clean descriptions.
