@@ -54,3 +54,8 @@ Below are the logical steps to perform Graphical clustering after identifying th
 2. Construct a similarity graph of clean descriptions in which nodes are clean descriptions.
 3. Draw an edge between two clean descriptions if they are similar. Consider two clean descriptions similar if the similarity coefficient between them is greater than a predefined threshold threshold similarity.
 4. Cluster clean descriptions by applying graph clustering on the similarity graph of clean descriptions. Various graph clustering techniques can be used for clustering such as cliques, connected components, graph partitioning, graph cuts, etc. We have used cliques to identify clusters of clean descriptions.
+
+For more information about the how we evalued from the level of pseudo code into the full python package, kindly go through below articles
+
+(https://medium.com/@nmani.1191/implementing-graphical-clustering-algorithm-from-research-paper-in-python-part-2-developing-the-ca6c1a1c8d84)
+(https://medium.com/@nmani.1191/how-we-addressed-the-challenges-faced-with-the-first-version-of-graphical-clustering-mvp-part-3-89d1420ec8c0)
