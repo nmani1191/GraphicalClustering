@@ -1,0 +1,11 @@
+TicketID,Issue Description
+1,ControlM Alert job=orahAAAA04 memname=orahotback.sh node=aaaa04 msg=sev3 job failed AAAA04
+2,ControlM Alert job=orahAAAA04 memname=orahotback.sh node=aaaa04 msg=sev3 job failed AAAA04
+3,XXX - send to XXX SSS another one that is missing from the YX search table
+4,ControlM Alert job=orahAAAA04 memname=orahotback.sh node=aaaa04 msg=sev3 job failed AAAA04
+5,ControlM Alert job=orahBBBB04 memname=orahotback.sh node=bbbb04 msg=sev3 job failed BBBB04
+6,XXX - Missing from the YX search table
+7,ControlM Alert job=orahBBBB04 memname=orahotback.sh node=bbbb04 msg=sev3 job failed BBBB04
+8,ControlM Alert job=orahAAAA04 memname=orahotback.sh node=aaaa04 msg=sev3 job failed AAAA04
+9,BMC portal alert on d-hw6ttk1-lvmh: /var for filesystem full
+10,BMC portal critical alert on d-hw6ttk1-lvmh/var for filesystem full.
