@@ -20,7 +20,9 @@ For example, if
 * then |A| = 9, |B| = 10, |A ∩ B| = 9 and D = (2∗9)/ (9+10) = 0.947.
 
 Below are the logical steps to perform Graphical clustering after identifying the similarity scores
-![alt text](https://github.com/nmani1191/GraphicalClustering/blob/main/Graphical_Clustering_flow.jpg?raw=true)
+![Screenshot](Graphical_Clustering_flow.jpg)
+
+
 
 1. Compute Dice similarity between every pair of clean description.
 2. Construct a similarity graph of clean descriptions in which nodes are clean descriptions.
@@ -51,7 +53,7 @@ gc_model = GraphicalClustering(input_text,2)
 gc_model.generate_graph_clusters(5)
 ```
 We can view the generated clusters like below
-![alt text](https://github.com/nmani1191/GraphicalClustering/blob/main/output.jpg?raw=true)
+![Screenshot](output.jpg)
 
 We can save the generated cluster model for predicting future tickets as well like below
 ```
@@ -66,4 +68,4 @@ result = loaded_gc_model.predict(input_text[0:5]) #For testing here I passed sam
 ```
 
 Pedicted outputs will be like below
-![alt text](https://github.com/nmani1191/GraphicalClustering/blob/main/prediction_output.jpg?raw=true)
+![Screenshot](prediction_output.jpg)
