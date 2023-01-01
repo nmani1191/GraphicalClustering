@@ -1,7 +1,7 @@
 # GraphicalClustering
 Tool to cluster IT support tickets based on its description/resolution remarks
 
-##Defining the area of scope
+## Defining the area of scope
 When business grows, it’s dependency with IT systems also grows proportionally and monitoring the health of this IT systems are the key to ensure smooth functioning of business and IT. This IT systems are continuously monitored and managed by the IT service providers with group of resolvers. Any problem in the system will be reported as Trouble ticket to the resolvers and they take required corrective action to maintain good health of IT systems. The system problems are reported to the resolvers in two ways:
 
 **System-generated issues:** Components such as business applications, processes, CPU, disk, and network interfaces are monitored to detect anomalies. The monitoring tools capture and report any abnormal behavior of system components in the form of alerts.
@@ -17,7 +17,7 @@ Compared to categorical fields, Issue Description will contain more information 
 
 This article is about how effectively we can extract issue details from the system generated tickets because around 60–70% of the IT system tickets are system generated only.
 
-##Analytics driven approach to mine textual descriptions of tickets to extract issues
+## Analytics driven approach to mine textual descriptions of tickets to extract issues
 
 Before getting into the proposed approach, let’s rewind currently available approaches
 
