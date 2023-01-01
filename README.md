@@ -20,6 +20,7 @@ For example, if
 * then |A| = 9, |B| = 10, |A ∩ B| = 9 and D = (2∗9)/ (9+10) = 0.947.
 
 Below are the logical steps to perform Graphical clustering after identifying the similarity scores
+![alt text](https://github.com/nmani1191/GraphicalClustering/blob/main/Graphical_Clustering_flow.jpg?raw=true)
 ![Screenshot](Graphical_Clustering_flow.jpg)
 
 
