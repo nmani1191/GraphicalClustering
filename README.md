@@ -21,8 +21,6 @@ For example, if
 
 Below are the logical steps to perform Graphical clustering after identifying the similarity scores
 ![alt text](https://github.com/nmani1191/GraphicalClustering/blob/main/Graphical_Clustering_flow.jpg)
-![Screenshot](Graphical_Clustering_flow.jpg)
-
 
 
 1. Compute Dice similarity between every pair of clean description.
