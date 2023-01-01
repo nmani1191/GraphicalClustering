@@ -57,5 +57,5 @@ Below are the logical steps to perform Graphical clustering after identifying th
 
 For more information about the how we evalued from the level of pseudo code into the full python package, kindly go through below articles
 
-(https://medium.com/@nmani.1191/implementing-graphical-clustering-algorithm-from-research-paper-in-python-part-2-developing-the-ca6c1a1c8d84)
-(https://medium.com/@nmani.1191/how-we-addressed-the-challenges-faced-with-the-first-version-of-graphical-clustering-mvp-part-3-89d1420ec8c0)
+* https://medium.com/@nmani.1191/implementing-graphical-clustering-algorithm-from-research-paper-in-python-part-2-developing-the-ca6c1a1c8d84
+* https://medium.com/@nmani.1191/how-we-addressed-the-challenges-faced-with-the-first-version-of-graphical-clustering-mvp-part-3-89d1420ec8c0
